@@ -37,5 +37,5 @@ No resources.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_service_account"></a> [service\_account](#output\_service\_account) | Service Account for External DNS |
+| <a name="output_service_account"></a> [service\_account](#output\_service\_account) | Service Account for External Secrets Operator |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
